@@ -7,11 +7,11 @@
         repository: "https://github.com/aalteirac/streamlit_keboola_vhol_pc.git"
       },
       "secrets": {
-        "user": "",
+        "user": "PC_KEBOOLA_USER",
         "password": "",
         "account": "",
-        "warehouse": "",
-        "db_name": "",
+        "warehouse": "PC_KEBOOLA_WH",
+        "db_name": "PC_KEBOOLA_DB",
         "schema_name": "",
         "keboola_key": ""
       }
