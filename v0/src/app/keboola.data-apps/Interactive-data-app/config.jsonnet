@@ -7,7 +7,7 @@
         repository: "https://github.com/aalteirac/streamlit_keboola_vhol_pc.git"
       },
       "secrets": {
-        "user": "PC_KEBOOLA_USER",
+        "user": "",
         "password": "",
         "account": "",
         "warehouse": "PC_KEBOOLA_WH",
