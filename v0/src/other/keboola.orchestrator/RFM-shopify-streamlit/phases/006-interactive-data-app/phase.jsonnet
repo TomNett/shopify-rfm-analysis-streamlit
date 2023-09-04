@@ -1,5 +1,5 @@
 {
-  name: "Interactive Data App",
+  name: "interactive Data App",
   dependsOn: ["<previous>"],
-  description: "This step will create interactive Streamlit Data App",
+  description: "This step will create an interactive Streamlit Data App",
 }
